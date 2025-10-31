@@ -9,6 +9,240 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This segment was featured on Episode 425, which aired on June 6, 2001. It is a reporter package about the film. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://laborfilms.com/wp-content/uploads/2011/11/bread-and-roses.jpg",
+      "caption": "Bread and Roses Movie Poster. Credit: The Labor Film Database",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "scale": 28
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Bread and Roses is a film by Ken Loach released September 14, 2000. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Plot overview: “In Los Angeles, illegal Mexican immigrant Maya (Pilar Padilla) finds work as a janitor through her sister, Rosa (Elpidia Carrillo). However, since both work for a non-union company, conditions are grim. After putting up with abuse from her bosses, Maya is open to the pro-union rhetoric offered by organizer Sam Shapiro (Adrien Brody). Rosa, however, is far less interested in clashing with management, given the needs of her family, and a rift begins to form between the sisters.”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Additional Resources",
+          "textSize": "heading-three"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Articles",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Guzmán, Ricardo Andrés. “From Highways to High-Rises: The Urbanization of Capital, Consciousness and Labor Struggle in Ken Loach’s ‘Bread and Roses.’” Arizona Journal of Hispanic Cultural Studies, vol. 16, no. 16, 2012, pp. 101–18, "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1353/hcs.2012.0034",
+          "children": [
+            {
+              "text": "https://doi.org/10.1353/hcs.2012.0034"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Young, Elliott. “Reaction to R. Andrés Guzmán’s ‘From Highways to High-Rises: The Urbanization of Capital, Consciousness and Labor Struggle in Ken Loach’s Bread and Roses.’” Arizona Journal of Hispanic Cultural Studies, vol. 16, no. 16, 2012, pp. 119–20, "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1353/hcs.2012.0040",
+          "children": [
+            {
+              "text": "https://doi.org/10.1353/hcs.2012.0040"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Books",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Gibney, Mark. Watching Human Rights : The 101 Best Films / Mark Gibney. 1st ed., Routledge, 2016, https://doi.org/10.4324/9781315631219."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Works Cited:",
+          "textSize": "heading-three"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Bread and Roses. Fandango Media, n.d. Rotten Tomatoes. Accessed 29 Oct, 2025."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "event",
       "uuid": "c005c9cc-49f6-44b5-9a1c-2a14e1bd0e30",
       "includes": [
@@ -35,7 +269,7 @@
   "created_by": "amtellez16",
   "title": "Bread and Roses - Latino USA Episode 425",
   "slug": "bread-and-roses-latino-usa-episode-425",
-  "updated_at": "2025-10-31T16:07:00.113Z",
+  "updated_at": "2025-10-31T23:15:19.785Z",
   "updated_by": "amtellez16",
   "parent": "b7e5726b-a0d8-4dbb-8fd8-11f2f273da4e",
   "autogenerate": {
