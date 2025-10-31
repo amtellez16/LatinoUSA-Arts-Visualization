@@ -1,21 +1,69 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [
+    {
+      "login_name": "luzgonz-glitch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/232996364?v=4",
+      "admin": false
+    },
+    {
+      "login_name": "katiegalyon14",
+      "avatar_url": "https://avatars.githubusercontent.com/u/235420526?v=4",
+      "admin": false
+    },
+    {
+      "login_name": "llilasbenson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26462551?v=4",
+      "admin": false
+    },
+    {
+      "login_name": "tanyaclement",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
+      "admin": false
+    }
+  ],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "amtellez16",
+    "is_private": false,
+    "title": "Latino USA Arts Visualization Project",
+    "description": "This AVAnnotate project aims to highlight ten cultural segments from a variety of Latino USA episodes, as they play a significant role in the construction of each show.",
+    "language": "en",
+    "slug": "LatinoUSA-Arts-Visualization",
+    "creator": "amtellez16",
+    "authors": "Kathryn Gaylon, Luz Gonzalez, Christian Nicholas, and Allysa Tellez",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [
+      {
+        "login_name": "luzgonz-glitch",
+        "avatar_url": "https://avatars.githubusercontent.com/u/232996364?v=4",
+        "admin": false
+      },
+      {
+        "login_name": "katiegalyon14",
+        "avatar_url": "https://avatars.githubusercontent.com/u/235420526?v=4",
+        "admin": false
+      },
+      {
+        "login_name": "llilasbenson",
+        "avatar_url": "https://avatars.githubusercontent.com/u/26462551?v=4",
+        "admin": false
+      },
+      {
+        "login_name": "tanyaclement",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
+        "admin": false
+      }
+    ],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-10-31T15:11:45.041Z",
+    "updated_at": "2025-10-31T15:11:45.041Z"
   }
 }
