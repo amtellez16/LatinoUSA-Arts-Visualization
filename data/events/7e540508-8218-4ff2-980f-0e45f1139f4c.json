@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "4e9dd7c5-3646-4930-bba3-60c6d9a77cec": {
+      "label": "Border Crossing Chicken",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://archive.org/download/010330lusapgm-416-el-teatro-campesino/010727lusapgm433%20-%20Poem.mp3",
+      "duration": 74
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Border Crossing Chicken - Latino USA Episode 433",
+  "created_at": "2025-10-31T15:59:24.899Z",
+  "created_by": "amtellez16",
+  "updated_at": "2025-10-31T15:59:24.899Z",
+  "updated_by": "amtellez16"
+}

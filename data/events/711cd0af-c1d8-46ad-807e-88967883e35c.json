@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "4704029d-b725-4d9b-ad8f-fbdada02a5be": {
+      "label": "Nortec Collectivo",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://archive.org/download/010330lusapgm-416-el-teatro-campesino/010727lusapgm433%20-%20Nortec.mp3",
+      "duration": 396
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Nortec Collectivo - Latino USA Episode 433",
+  "created_at": "2025-10-31T15:59:24.899Z",
+  "created_by": "amtellez16",
+  "updated_at": "2025-10-31T15:59:24.899Z",
+  "updated_by": "amtellez16"
+}

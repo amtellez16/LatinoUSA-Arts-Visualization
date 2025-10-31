@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "8969dc4b-713b-4614-b185-31600e9695f2": {
+      "label": "Anthony Quinn",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://archive.org/download/010330lusapgm-416-el-teatro-campesino/010608lusapgm426%20-%20Anthony%20Quinn.mp3",
+      "duration": 368
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Anthony Quinn Profile - Latino USA 426",
+  "created_at": "2025-10-31T15:59:24.899Z",
+  "created_by": "amtellez16",
+  "updated_at": "2025-10-31T15:59:24.899Z",
+  "updated_by": "amtellez16"
+}

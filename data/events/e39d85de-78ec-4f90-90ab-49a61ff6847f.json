@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "4c235464-c9f2-4152-935a-08cebd55fb9a": {
+      "label": "New Mexican Tin Art",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://archive.org/download/010330lusapgm-416-el-teatro-campesino/010112lusapgm405%20-%20Tin%20Art.mp3",
+      "duration": 248
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "New Mexican Tin Art - Latino USA Episode 405",
+  "created_at": "2025-10-31T15:59:24.899Z",
+  "created_by": "amtellez16",
+  "updated_at": "2025-10-31T15:59:24.899Z",
+  "updated_by": "amtellez16"
+}
