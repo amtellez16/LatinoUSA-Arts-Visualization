@@ -7,12 +7,620 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "",
+                  "textSize": "heading-one"
+                }
+              ]
+            },
+            {
+              "type": "table-of-contents",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "",
+                  "textSize": "heading-one"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Introduction",
+                  "textSize": "heading-one"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Latino USA got its start out of the Center for Mexican American Studies (CMAS) in 1993. The show was produced in collaboration with the public radio station, KUT, and the University of Texas at Austin. The award-winning radio show aired once a week, aiming to reach Latino/a audiences and fill a gap in Latino/a-related content. The show’s host, Maria Hinojosa, opens every episode with a brief introduction: “This is Latino USA, the radio journal of news and culture.”"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "This AVAnnotate project intends to emphasize ten arts segments from an assortment of episodes, as they play a significant role in the construction of each show. The producers of Latino USA illustrate the importance and richness of Latino/a culture by devoting segments of the program to different forms of expression: film, music, literature, food, and more. Maria Martin, the show’s creator and founder, envisioned a platform that could “portray the whole of the Latino experience” (160). Christopher Chavez posits that the creation of the show marked a disruption amidst the more conventional NPR programming, while still operating within its institutional framework. The episodes selected from this project span from January 1 to July 27 of 2001."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Each page of this project provides additional context for each episode, along with photos and videos to provide users with examples of the topics discussed. Including supplementary resources can enable folks to engage with content in new ways, as they can refer to the subject material as they listen. Additionally, AVAnnotate allows for increased accessibility, as users can read the transcript as the segments play. This project intends to be a resource for listeners with reference to trustworthy sources, in addition to being a jumping-off point for further research: each page includes relevant books, articles, videos, and audio recordings that can be found at the University of Texas at Austin library."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Themes",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "While Latino USA focuses on several themes in its episodes, the producers frequently include segments on fusion and identity. These themes are most commonly explored through interviews, although there are some instances of radio packages (a pre-written and pre-recorded interview with sound effects). These artistic media that frequently address these themes are those that cover music and performance, and are illustrative of a Latine diaspora that cannot fit into neat boxes. Latino USA invites listeners to consider different forms of artistic expression, thus avoiding monolithic expressions of Latinidad. Taking also from Michele Hilmes, who argues radio episodes are texts, this project examines how Latino USA incorporates music and performance segments to explore “flexibility, blurring, and ambivalence in their understandings of lands and identities, and projects them to a wide audience for entertainment and learning” (Jimenez 5)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Performance",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Many of the episodes explored in this project highlight the artistic value of performance in film and the theater. El Teatro Campesino (Episode 416) turns the stage into a field of resistance, where farmworkers showcase their own realities through actos, or the mixing of satire, ritual, and protest from the farmworkers' movement. The theatre company has brought the Chicane and Latine experience to Broadway, but remains a farmworker’s theatre company. In an interview with Rita Moreno, host Maria Hinojosa talks with the award-winning actress about how she navigated between artistry and stereotype: Moreno discusses being frequently typecast. In an archival segment about Anthony Quinn, following his death, Latino USA producers replay Quinn’s relationship with identity. He was also frequently typecast as an Indian Chief until his role in the film, La Strada. Finally, Quique Aviles performs his poem, “Border Crossing Chicken,” about immigrants crossing the border, where spoken word satirizes U.S. economic and political structures. By highlighting these actors, the theatre company, and poetry, each segment considers a sense of belonging, whether that is on screen, onstage, or in America more broadly. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Music",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "It would make sense that many segments of Latino USA center on music, as the platform is a radio show; however, its producers introduce listeners to new genres, such as Nortec, a fusion of Norteño/Tambora music and Techno, where musicians like Pepe Mogt combine the sounds they grew up with in Tijuana and the sounds of the electronic music that came from across the border in California. Austin-based band Ojala, combines the sounds of traditional Mexican and Persian music, as illustrated by the name ‘Ojala’ derived from the Arabic word, ‘Inshallah.’ In an interview with Accordian Dreams director, Hector Galan (Episode 424), he discusses the fusion of polka music with the traditional sounds of Mexico in the mid-twentieth century, and how the sound of Conjunto continues to change with innovators such as Valerio Longoria and Paulino Bernal, who redefine the role of the accordion to welcome in younger audiences. While the film Bread and Roses combines both themes of music and performance–such as actors playing janitors alongside actual laborers–music from Los Jornaleros del Norte is used to support immigrants forming a labor union. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "How the episodes were tagged:",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Each transcript of the radio segments was annotated to increase discoverability of people, genres, and works. A total of nine tag groups were created: artistic medium, genre, geographic, sounds, speaker, subject, time period, names, and work titles. See the index for a complete list of tags."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Artistic Medium",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The artistic medium refers to the type of expression, such as documentary, painting, or photography."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Geographic",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Cities, countries, and regions were tagged to provide additional context, as some expressions of culture were influenced by their place of origin, such as Nortec."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Genre",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Genre was tagged in reference to artistic medium, but related to the style of said medium. For example, the term ‘Mexican cooking’ is used in reference to the kind of recipe."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sounds",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The sounds tag is in reference to sounds that can be heard in the recording, such as singing, chanting, and laughter to increase accessibility."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Speaker",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Each speaker on Latino USA was tagged with their full name to increase discoverability of guests and interviewees."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Subject",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Themes that are discussed widely within each episode."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Time period",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The year, decade, or century relevant to a given segment."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Names",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Similar to speaker names, ‘Names’ is in reference to any proper nouns discussed in an episode. These can the names of organization, bands, or people who may not have been interviewed, but are brought up in Latino USA segments."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Work Titles",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The names of relevant works, such as albums, book titles, or films. These are a separate tag category from names because groups such as Ojala (band), have an album called Ojala (2001). This was also done to increase the discoverability of specific artistic projects."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Works Cited",
+          "textSize": "heading-three"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "\nHilmes, Michele. “Interpreting Radio: Culture in Sound and the Role of Media Studies.” "
+        },
+        {
+          "text": "New Review of Film and Television Studies",
+          "italic": true
+        },
+        {
+          "text": ", vol. 16, no. 4, 2018, pp. 420–25, https://doi.org/10.1080/17400309.2018.1524962.\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "Pendleton Jiménez, Karleen. \"Gender, Sexuality, and Borders in Popular Culture.\" "
+        },
+        {
+          "text": "Oxford Research Encyclopedia of Education",
+          "underline": true
+        },
+        {
+          "text": ".  September 28, 2020.\n Oxford University Press. Date of access 31 Oct. 2025, \n<https://oxfordre.com/education/view/10.1093/acrefore/9780190264093.001.0001/acrefore-9780190264093-e-1315>\n\t\t"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "Latino USA Radio Program Episodes Published | TexLibris. 17 Feb. 2025, https://texlibris.lib.utexas.edu/2025/02/latino-usa-radio-program-episodes-published/."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "created_at": "2025-10-31T15:11:45.079Z",
   "created_by": "amtellez16",
   "title": "Latino USA Arts Visualization Project",
-  "updated_at": "2025-10-31T16:06:33.586Z",
+  "updated_at": "2025-10-31T23:54:13.689Z",
   "updated_by": "amtellez16",
   "autogenerate": {
     "enabled": false,
