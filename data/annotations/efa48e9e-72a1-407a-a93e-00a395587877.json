@@ -1,5 +1,1112 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As a group, immigrant workers are rarely seen and seldom heard in modern U.S. media."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Labor Organizing",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "261545e8-fc21-4e07-981c-02bf8d3fda6f"
+    },
+    {
+      "start_time": 7,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Beginning June 1st, though, Bread and Roses will be released nationwide."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Bread and Roses",
+          "category": "Work Titles"
+        },
+        {
+          "tag": "Year 2000",
+          "category": "Time Period"
+        }
+      ],
+      "uuid": "7aa111b4-1954-4612-8fcd-8ed762847da8"
+    },
+    {
+      "start_time": 11,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The bilingual film chronicles the struggle of immigrants to form a union in Southern California during the 1990s."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Bread and Roses",
+          "category": "Work Titles"
+        },
+        {
+          "tag": "Southern California",
+          "category": "Geographic"
+        },
+        {
+          "tag": "The 1990s",
+          "category": "Time Period"
+        },
+        {
+          "tag": "Film",
+          "category": "Artistic Medium"
+        }
+      ],
+      "uuid": "287992c6-b4f6-4e63-8d34-21616d4e3f88"
+    },
+    {
+      "start_time": 18,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The film premiered recently in Los Angeles."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Bread and Roses",
+          "category": "Work Titles"
+        },
+        {
+          "tag": "Los Angeles",
+          "category": "Geographic"
+        }
+      ],
+      "uuid": "71a50955-d0f2-48d1-bf0a-a7a0712e67c7"
+    },
+    {
+      "start_time": 20,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Correspondent Robin Yorovich was there and filed this report."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "45c00021-be28-418a-bdea-8a209dc36b27"
+    },
+    {
+      "start_time": 24,
+      "end_time": 31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As Bread and Roses opens, its heroine, Maya Montenegro, played by Pilar Padilla, survives a dramatic border crossing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Robin Yurovich",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Pilar Padilla",
+          "category": "Names"
+        },
+        {
+          "tag": "Bread and Roses",
+          "category": "Work Titles"
+        },
+        {
+          "tag": "Excerpt",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "973c6f0d-e7cb-4135-8ddc-96694f95f28b"
+    },
+    {
+      "start_time": 43,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Once in Los Angeles, she joins her sister, Rosa, played by Elpidia Carrillo, working as a janitor in a downtown high-rise. Soon, a union organizer comes calling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Robin Yurovich",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Elpidia Carrillo",
+          "category": "Names"
+        },
+        {
+          "tag": "Bread and Roses",
+          "category": "Work Titles"
+        }
+      ],
+      "uuid": "e51fd7f7-f9b5-49d3-bb88-cceac720353b"
+    },
+    {
+      "start_time": 52,
+      "end_time": 59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Hi, is Rosa in? Yeah, Hold On. Mami! Que? Hay alguien en la puerta- "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bread and Roses",
+          "category": "Work Titles"
+        },
+        {
+          "tag": "Pilar Padilla",
+          "category": "Names"
+        },
+        {
+          "tag": "Elpidia Carrillo",
+          "category": "Names"
+        },
+        {
+          "tag": "Excerpt",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "a129dd76-1224-49d0-a9d5-4d6268130107"
+    },
+    {
+      "start_time": 59,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hi, I'm Sam Shapiro, the Justice for Janitors campaign."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bread and Roses",
+          "category": "Work Titles"
+        },
+        {
+          "tag": "Adrien Brody",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Excerpt",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "2f19ff24-03bd-4d86-aadf-2218701e76f7"
+    },
+    {
+      "start_time": 67,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm Rosa, Justice for Rosa's campaign."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bread and Roses",
+          "category": "Work Titles"
+        },
+        {
+          "tag": "Elpidia Carrillo",
+          "category": "Names"
+        },
+        {
+          "tag": "Excerpt",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "924850aa-bb49-4ba7-8b2d-eb69ccc09346"
+    },
+    {
+      "start_time": 70,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Maya liked Sam, played by actor Adrien Brody and the idea of the union, but the more hardened and cynical Rosa is not so easily persuaded."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Robin Yurovich",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Adrien Brody",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Bread and Roses",
+          "category": "Work Titles"
+        }
+      ],
+      "uuid": "4c6b57b6-00b1-4ae6-8e25-673b18e73cbc"
+    },
+    {
+      "start_time": 79,
+      "end_time": 84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There is every chance you can get fired. I've seen it before. What are you going to do? Pay the rent? Feed my kids?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Excerpt",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Bread and Roses",
+          "category": "Work Titles"
+        },
+        {
+          "tag": "Elpidia Carrillo",
+          "category": "Names"
+        }
+      ],
+      "uuid": "80e327ab-3745-4be7-9e42-99f9be984305"
+    },
+    {
+      "start_time": 84,
+      "end_time": 88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And you? You better keep away from this nice one. Listen, they will fire anyway! "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Excerpt",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Bread and Roses",
+          "category": "Work Titles"
+        },
+        {
+          "tag": "Elpidia Carrillo",
+          "category": "Names"
+        }
+      ],
+      "uuid": "6d6fd844-3718-4b4c-bdba-527e6e683e8f"
+    },
+    {
+      "start_time": 89,
+      "end_time": 98,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nearly a decade after he came up with the idea for Bread and Roses, screenwriter Paul Laverty was back in Los Angeles for the film's opening party."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Robin Yurovich",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Paul Laverty",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Los Angeles",
+          "category": "Geographic"
+        }
+      ],
+      "uuid": "403b9d69-9129-4430-8230-6a0fee97e578"
+    },
+    {
+      "start_time": 98,
+      "end_time": 108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He'd just arrived from his state of Scotland in the early 90s when thousands of janitors, mostly from Mexico and Central America, were beginning to demand better pay and benefits."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Robin Yurovich",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Paul Laverty",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Labor Organizing",
+          "category": "Subject"
+        },
+        {
+          "tag": "Los Angeles",
+          "category": "Geographic"
+        }
+      ],
+      "uuid": "179f49d3-37fb-4cef-8e87-1f3e6aedc584"
+    },
+    {
+      "start_time": 109,
+      "end_time": 114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I went along and I met the people. I met cleaners who were activists and trade union organizers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Paul Laverty",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Labor Organizing",
+          "category": "Subject"
+        },
+        {
+          "tag": "Los Angeles",
+          "category": "Geographic"
+        }
+      ],
+      "uuid": "5c1be10a-8cbf-40ab-814a-b2831cd71190"
+    },
+    {
+      "start_time": 114,
+      "end_time": 125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And they were fantastic people. And there was a kind of a spark to them that really got to me, you know, the way they organized and a real depth of human experience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Paul Laverty",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Labor Organizing",
+          "category": "Subject"
+        },
+        {
+          "tag": "Los Angeles",
+          "category": "Geographic"
+        }
+      ],
+      "uuid": "b019a926-9839-43ce-85bb-bd7262d28f43"
+    },
+    {
+      "start_time": 125,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, and there was a determination to organize and change their lives without making a fuss or playing victim."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Paul Laverty",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Labor Organizing",
+          "category": "Subject"
+        },
+        {
+          "tag": "Los Angeles",
+          "category": "Geographic"
+        }
+      ],
+      "uuid": "bd486165-30d1-48db-a9a7-90aca91cce56"
+    },
+    {
+      "start_time": 130,
+      "end_time": 139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Laverty convinced director Ken Loach there was a film in the story of the janitors and he began poking around the union where he ran into organizer Jono Shaffer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Robin Yurovich",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Film",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Ken Loach",
+          "category": "Names"
+        },
+        {
+          "tag": "Bread and Roses",
+          "category": "Work Titles"
+        }
+      ],
+      "uuid": "1fb1bcf8-ddf5-4334-95f0-b8be4c454fbb"
+    },
+    {
+      "start_time": 139,
+      "end_time": 147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The first time I met Paul, he sort of appeared and started asking a bunch of questions and I was totally suspicious about who this guy was, you know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jono Shaffer",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Los Angeles",
+          "category": "Geographic"
+        },
+        {
+          "tag": "Bread and Roses",
+          "category": "Work Titles"
+        }
+      ],
+      "uuid": "7d6007d6-0125-49cf-8dbe-b8d4e7282b5d"
+    },
+    {
+      "start_time": 147,
+      "end_time": 157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But over time he, you know, sort of wore on me. He said he was making a movie. I was like, yeah, right, everybody in L.A. is going to make a movie. You know, it's like this will end up in some trash can somewhere."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jono Shaffer",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Los Angeles",
+          "category": "Geographic"
+        },
+        {
+          "tag": "Bread and Roses",
+          "category": "Work Titles"
+        },
+        {
+          "tag": "Film",
+          "category": "Artistic Medium"
+        }
+      ],
+      "uuid": "41fcfaff-7ab9-4748-a485-8ad77614c38b"
+    },
+    {
+      "start_time": 157,
+      "end_time": 168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shaffer, who bears a resemblance to the film's organizer, says Laverty and Ken Loach took some artistic license, making the work of the organizer a little more reckless and spontaneous than it is in real life."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Robin Yurovich",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Bread and Roses",
+          "category": "Work Titles"
+        },
+        {
+          "tag": "Film",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Jono Shaffer",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "d12d8f85-0b2a-45dc-9dd5-8953f69365aa"
+    },
+    {
+      "start_time": 168,
+      "end_time": 174,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But he says they didn't exaggerate the difficulty of organizing a union in the United States."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Robin Yurovich",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Bread and Roses",
+          "category": "Work Titles"
+        },
+        {
+          "tag": "Film",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Labor Organizing",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "193eea81-990b-40b2-a9e4-eea5e10f637c"
+    },
+    {
+      "start_time": 174,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Real life janitor Dolores Sanchez says she saw a lot of herself and her co-workers in Bread and Roses."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Robin Yurovich",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Bread and Roses",
+          "category": "Work Titles"
+        },
+        {
+          "tag": "Film",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Labor Organizing",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "f2789338-7848-4b40-9a78-b06965241dcd"
+    },
+    {
+      "start_time": 181,
+      "end_time": 190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't know. I cried during the whole movie because it does have several things that those of us from other countries have been through."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dolores Sanchez",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Bread and Roses",
+          "category": "Work Titles"
+        },
+        {
+          "tag": "Labor Organizing",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "03fa202a-02e2-44a5-b41c-2f4df33e5a59"
+    },
+    {
+      "start_time": 190,
+      "end_time": 200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For the three and a half years it took to organize the union at her company, Sanchez says she went to work every night fighting her fears of a confrontation with the boss or of losing her job."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Robin Yurovich",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Labor Organizing",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "d5989e56-e112-4f19-be63-c357218e23f6"
+    },
+    {
+      "start_time": 200,
+      "end_time": 208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "During the three and a half years, I'd ask myself, if you lose your job, how are you going to support your kids?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dolores Sanchez",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Labor Organizing",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "182e738f-86f4-4c31-83fb-be9b7a927061"
+    },
+    {
+      "start_time": 208,
+      "end_time": 219,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now Sanchez says the sacrifices of those years are paying off. She couldn't have a much wanted third child until she got family health insurance. Now she's got it and her baby's due late this summer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Robin Yurovich",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Labor Organizing",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "ab014ff8-b375-475a-bfc6-731da233f0af"
+    },
+    {
+      "start_time": 219,
+      "end_time": 223,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bread and Roses mixes drama and fiction with reality."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Robin Yurovich",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Bread and Roses",
+          "category": "Work Titles"
+        }
+      ],
+      "uuid": "0248ca34-91e0-4cd2-95d4-56fda011514b"
+    },
+    {
+      "start_time": 223,
+      "end_time": 232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Director Ken Loach required the actors to work a shift alongside real life janitors, some of whom also appear in the movie along with other L.A. activists."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Robin Yurovich",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Bread and Roses",
+          "category": "Work Titles"
+        },
+        {
+          "tag": "Ken Loach",
+          "category": "Names"
+        }
+      ],
+      "uuid": "55b9d694-f7e7-40ce-adff-2189be390381"
+    },
+    {
+      "start_time": 232,
+      "end_time": 239,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Si se puede, si se puede, si se puede..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Los Jornaleros del Norte",
+          "category": "Names"
+        },
+        {
+          "tag": "Music",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "6a257a98-6f42-44aa-a3cf-e4d2b6081e8c"
+    },
+    {
+      "start_time": 239,
+      "end_time": 249,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this scene at a union celebration, the music is provided by Los Jornaleros del Norte, five men who haven't quit their real life day jobs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Robin Yurovich",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Los Jornaleros del Norte",
+          "category": "Names"
+        },
+        {
+          "tag": "Music",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "cdc95936-610e-4e97-b133-8e957a36431c"
+    },
+    {
+      "start_time": 249,
+      "end_time": 255,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They're members of L.A.'s day laborers union and they play their topical songs at labor and immigrant rights events."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Robin Yurovich",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Los Jornaleros del Norte",
+          "category": "Names"
+        },
+        {
+          "tag": "Music",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "bddc6064-6b25-48f3-9486-eb9d6fc5c0e6"
+    },
+    {
+      "start_time": 255,
+      "end_time": 265,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bread and Roses has received mostly thumbs up from the critics, but as a business venture, it's a little risky, says its distributor Tom Ortenberg of Lionsgate Films."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Robin Yurovich",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Bread and Roses",
+          "category": "Work Titles"
+        }
+      ],
+      "uuid": "b2bf3959-c103-44d3-8fe5-80abbb3855de"
+    },
+    {
+      "start_time": 265,
+      "end_time": 281,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It doesn't have Tom Cruise or Mel Gibson, it doesn't have a lot of action, it's got a political bent to it about union organizing and those just aren't easy things. It's not a popcorn, bubble gum kind of movie."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tom Ortenberg",
+          "category": "Names"
+        },
+        {
+          "tag": "Bread and Roses",
+          "category": "Work Titles"
+        },
+        {
+          "tag": "Labor Organizing",
+          "category": "Subject"
+        },
+        {
+          "tag": "Film",
+          "category": "Artistic Medium"
+        }
+      ],
+      "uuid": "1337f07c-bb58-40cc-8845-80a1409ae491"
+    },
+    {
+      "start_time": 281,
+      "end_time": 292,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The film was made independently, backed by a group of investors from Europe, but says Ortenberg he hopes it's successful enough at the box office to convince Hollywood to take on similar projects."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Robin Yurovich",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Bread and Roses",
+          "category": "Work Titles"
+        },
+        {
+          "tag": "Film",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Hollywood",
+          "category": "Names"
+        }
+      ],
+      "uuid": "f8166dc0-fc90-437f-91c1-ac8e3238643e"
+    },
+    {
+      "start_time": 292,
+      "end_time": 299,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bread and Roses debuts June 1st in 15 to 18 cities across the country with more to follow in the coming weeks."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Robin Yurovich",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Bread and Roses",
+          "category": "Work Titles"
+        },
+        {
+          "tag": "Film",
+          "category": "Artistic Medium"
+        }
+      ],
+      "uuid": "4e89219d-ddc9-438b-8763-e2ed40f814a1"
+    },
+    {
+      "start_time": 299,
+      "end_time": 303,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For Latino USA, I'm Robin Yurovich in Los Angeles."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Robin Yurovich",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "fef19edb-6481-4024-adde-c9c7bd7db681"
+    }
+  ],
   "set": "Default",
   "event_id": "c005c9cc-49f6-44b5-9a1c-2a14e1bd0e30",
   "source_id": "a3d1ac00-39bb-4273-b1cd-5c6b3494e6ee"
