@@ -9,6 +9,369 @@
       ]
     },
     {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Anthony_Quinn%2C_2000.jpg",
+              "caption": "Anthony Quinn, 2000. Credit: Wikimedia Commons.",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "scale": 55,
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Anthony Quinn",
+                  "textSize": "heading-one"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "This segment was featured on episode 426 and aired on June 8, 2001. Quinn died on June 3, 2001, so this is a re-airing of a portion of an interview he did with Latino USA in 1995. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Anthony Quinn was a Mexican-born actor, artist, architect, and activist. Born to a Mexican-Irish father and a Mexican-Indian mother in Chihuahua, Mexico during the Mexican Revolution.  However, within a year of his birth, his mother fled to the United States, taking him with her. His father joined them about two years later, and the family eventually settled in Los Angeles. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Quinn experienced a fairly turbulent early life. His father died when Quinn was 11, so he frequently skipped school to work odd jobs and support his family. Eventually, he began studying architecture under Frank Lloyd Wright, and the two became close friends. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "At the advice of Wright, Quinn got surgery to correct a speech impediment. After the surgery, he began speech therapy with Katherine Hamil, a woman who ran an acting school. When one of her students fell ill and had to drop out of a performance, Hamil suggested that Quinn take their place. He did, and discovered a talent for acting. He then began taking small parts on the side while continuing his architecture studies under Wright, until Paramount offered him a full-time job as an actor. Wright encouraged him to take the job, so he did, and acting then became his primary career for the rest of his life. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "His most notable achievement as an actor came in 1952 when he won the Academy Award for Best Supporting Actor for his role in Viva Zapata!, becoming the first Mexican to win an Oscar. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n\n\n"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Additional Resources",
+                  "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "",
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "textSize": "heading-four",
+                  "text": "Books"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Amdur, Melissa. Anthony Quinn / Melissa Amdur. Chelsea House, 1993."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Macias, Anthony F. Chicano-Chicana Americana : Pop Culture Pluralism Starring Anthony Quinn, Katy Jurado, Robert Beltran, and Lupe Ontiveros / Anthony Macías. The University of Arizona Press, 2023."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Quinn, Anthony, and Daniel Paisner. One Man Tango / Anthony Quinn with Daniel Paisner. HarperCollins Publishers, 1995."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Quinn, Anthony. The Original Sin : A Self-Portrait / by Anthony Quinn. Bantam Books, 1974."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Videos",
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Akkad, Moustapha, et al. The Message the Story of Islam / a Filmco International Production ; Produced and Directed by Moustapha Akkad ; Screenplay by H.A.L. Craig. 30th anniversary ed., Distributed by Anchor Bay Entertainment, 2005."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Fellini, Federico, et al. La strada. Kanopy Streaming, 2014."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Quinn, Anthony, et al. Lion of the Desert Producer, Director, Moustapha Akkad ; Screenplay, Hal Craig. Distributed by Anchor Bay Entertainment, 1998."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n\n\n\n\n\n\n\n\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/GunsofNavarone.jpg",
+              "caption": "Theatrical poster for the film The Guns of Navarone (1961). Credit: Wikimedia Commons ",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "scale": 75,
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "event",
       "uuid": "4e05f7be-5e3e-48b3-9e47-cd562b058cd5",
       "includes": [
@@ -35,7 +398,7 @@
   "created_by": "amtellez16",
   "title": "Anthony Quinn Profile - Latino USA 426",
   "slug": "anthony-quinn-profile-latino-usa-426",
-  "updated_at": "2025-10-31T16:06:52.235Z",
+  "updated_at": "2025-10-31T23:36:35.023Z",
   "updated_by": "amtellez16",
   "parent": "b7e5726b-a0d8-4dbb-8fd8-11f2f273da4e",
   "autogenerate": {
