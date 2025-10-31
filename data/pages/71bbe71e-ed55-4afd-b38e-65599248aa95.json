@@ -1,7 +1,7 @@
 {
   "content": [
     {
-      "type": "paragraph",
+      "type": "heading-one",
       "children": [
         {
           "text": ""
@@ -9,16 +9,154 @@
       ]
     },
     {
-      "type": "event",
-      "uuid": "e39d85de-78ec-4f90-90ab-49a61ff6847f",
-      "includes": [
-        "media",
-        "annotations",
-        "description"
-      ],
+      "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Tin ceiling at the Rio Grande Botanical Garden in Albuquerque, New Mexico. Credit: Flickr."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "grid",
+          "layout": [
+            3,
+            3
+          ],
+          "children": [
+            {
+              "type": "column",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "column",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "New Mexican Tin Art"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This segment was featured on Episode 405 and aired on January 12, 2001."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This segment discusses tin making in New Mexico. The practice of tin making took off around the 1840s and into the 20th century, when tin became more readily available. The Santa Fe Trail also opened up trade and brought in various goods and materials. Local artisans would repurpose tin from cans and containers and turn them into spiritual and household objects, as silver was more costly. Under Bishop Jean Baptiste Lamy’s leadership in the mid-19th century, Catholic prints spread throughout the region, and tinsmiths began working on frames, nichos, sconces, and small boxes, also called baulitos."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Artisans used hand tools taken from leather-working. The craftsmen embossed, punched, and painted tin to create ornate designs to create folk art, reflecting Mexican and Spanish influences. According to the book, New Mexican Tin Works, by the 20th century, traditional tinwork began to decline as a result of industrial production and electric lighting, but artists and collectors revived the craft in the 1930s, recognizing its cultural significance. Tinsmiths in New Mexico, like the ones heard in this segment, continue to produce both traditional and contemporary works, like frames, mirrors, lanterns, and ornaments."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Additional Resources:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Books"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Tin Craft in New Mexico... Compiled by New Mexico State Department of Vocational Education, Department of Trades & Industries, Brice H. Sewell, State Supervisor. 1937."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Film"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Romero, Marie Cash Day, et al. Tinwork of Northern New Mexico Chip Taylor Communications. Chip Taylor Communications, 1980."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Works Cited:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Coulter, Lane, and Maurice Dixon. New Mexican Tinwork, 1840-1940. UNM Press, 2004."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n\n\n\n"
         }
       ]
     },
@@ -35,8 +173,8 @@
   "created_by": "amtellez16",
   "title": "New Mexican Tin Art - Latino USA Episode 405",
   "slug": "new-mexican-tin-art-latino-usa-episode-405",
-  "updated_at": "2025-10-31T16:06:36.037Z",
-  "updated_by": "amtellez16",
+  "updated_at": "2025-10-31T20:24:06.303Z",
+  "updated_by": "luzgonz-glitch",
   "parent": "b7e5726b-a0d8-4dbb-8fd8-11f2f273da4e",
   "autogenerate": {
     "enabled": false,
