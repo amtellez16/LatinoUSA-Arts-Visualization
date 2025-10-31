@@ -4,6 +4,401 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "This segment was featured on Episode 424 and aired on May 25, 2001. It is a conversation between Maria Hinojosa and documentary filmmaker Hector Galan. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "data:image/jpeg;base64,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",
+              "caption": "Tijuana Performers. Credit: Wikimedia Commons",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Cutumay_Camones_Chicago_1987_033.jpg",
+              "caption": "Cutumay Camones Chicago 1987. Credit: Wikimedia Commons",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "scale": 50,
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Hector Galan is a critically acclaimed documentary filmmaker whose career spans 40 years. According to his website, Galan has directed and produced eleven films for the PBS series, Frontline and two films for The American Experience. Galan has explored many topics in his films, including migrant farm workers, race dynamics in the military, and the 1960s Black power movement, among others."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Galan is a native Texan, born in San Angelo, with strong ties to the Rio Grande Valley. He is the first documentary filmmaker to be inducted into the Texas Hall of Fame by the Austin Film Society. He is also a member of the writer’s guild of America West, the Texas Institute of Letters, and the Society of American Historians. His most recent film, Our Texas, Our Vote, was produced in partnership with Latino Public Broadcasting, as part of VOCES, and was nationally broadcast on PBS in October of 2024. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Accordion Dreams was broadcast nationally on PBS in August of 2001. The film was a follow-up to his film, Songs of the Homeland. The film traces the history of Conjunto music from the 1930s to the musicians continuing the tradition into today, beginning with the role of the accordion. The accordion arrived in Central Texas in the early 19th century with German and Czech immigrants. Musicians in the region began adopting polka into Conjunto. The documentary also highlights the lives of conjunto legends Flaco Jimenez and Narciso Martinez. Galan also focuses on the struggle of women pioneers in Conjunto music, like Eve Ybarra. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Additional Resources",
+          "textSize": "heading-three"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Articles",
+          "bold": true,
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Bauer, Erin. “Blurring Boundaries in Rosedale Park: The Importance of the Tejano Conjunto Festival on the Transnational Dissemination of Traditional Texas-Mexican Accordion Music.” Latino Studies, vol. 17, no. 2, 2019, pp. 164–86, https://doi.org/10.1057/s41276-019-00182-2."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Books",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Díaz-Santana Garza, Luis. Between Norteño and Tejano Conjunto : Music, Tradition and Culture at the U.S.-Mexico Border / Luis Díaz-Santana Garza ; Foreword by Walter Aaron Clark. Lexington Books, 2021."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "\nPeña, Manuel H. The Texas-Mexican Conjunto : History of a Working-Class Music / Manuel H. Peña. University of Texas Press, 1985, "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.7560/780682",
+          "children": [
+            {
+              "text": "https://doi.org/10.7560/780682"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Videos",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Galán, Héctor, et al. Accordion Dreams Produced and Directed by Hector Galán ; Production of Galán Incorporated. Galán Inc., 2000."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Galán, Héctor, et al. Songs of the Homeland a Production of Galan Productions. Films for the Humanities & Sciences, 1998."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Works Cited",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "Accordion Dreams | LATINO PUBLIC BROADCASTING."
+        },
+        {
+          "type": "link",
+          "url": "https://lpbp.org/programs/accordion-dreams/",
+          "children": [
+            {
+              "text": " https://lpbp.org/programs/accordion-dreams/"
+            }
+          ]
+        },
+        {
+          "text": ". Accessed 30 Oct. 2025."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Hector Galan."
+        },
+        {
+          "type": "link",
+          "url": "https://hectorgalan.com/about",
+          "children": [
+            {
+              "text": " https://hectorgalan.com/about"
+            }
+          ]
+        },
+        {
+          "text": ". Accessed 31 Oct. 2025."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "\nSattley, Melissa. “Accordion Dreams.” The Texas Observer, 27 Apr. 2001,"
+        },
+        {
+          "type": "link",
+          "url": "https://www.texasobserver.org/55-accordion-dreams/",
+          "children": [
+            {
+              "text": " https://www.texasobserver.org/55-accordion-dreams/"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -35,7 +430,7 @@
   "created_by": "amtellez16",
   "title": "Accordion Dreams - Latino USA Episode 424",
   "slug": "accordion-dreams-latino-usa-episode-424",
-  "updated_at": "2025-10-31T16:06:54.463Z",
+  "updated_at": "2025-10-31T23:26:26.307Z",
   "updated_by": "amtellez16",
   "parent": "b7e5726b-a0d8-4dbb-8fd8-11f2f273da4e",
   "autogenerate": {
