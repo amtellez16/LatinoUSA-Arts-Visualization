@@ -1,5 +1,698 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lots of desert animals would raid it if they could. They can't because cacti, like desert succulents everywhere, defend themselves with spines."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Excerpt",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Nopal",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "e4fd3d84-15ef-4110-9649-a81e333b69cd"
+    },
+    {
+      "start_time": 9,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nopal cactus, also known as devil's tongue, may not immediately come to mind when you're looking for something new for lunch. But in Mexico and the southwestern United States, the prickly pear cactus has been cooked and enjoyed for generations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Mexico",
+          "category": "Geographic"
+        },
+        {
+          "tag": "US Southwest",
+          "category": "Geographic"
+        },
+        {
+          "tag": "Nopal",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "ef8fc067-8c27-44aa-9dee-de338eb74a12"
+    },
+    {
+      "start_time": 26,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Susana Trilling is a chef and former restaurateur from the U.S. now living in Oaxaca, Mexico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Susana Trilling",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Oaxaca",
+          "category": "Geographic"
+        },
+        {
+          "tag": "Chef",
+          "category": "Artistic Medium"
+        }
+      ],
+      "uuid": "11c5aa35-58fa-4c09-8b6b-da0efa58f21b"
+    },
+    {
+      "start_time": 32,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She offers cooking classes at her school, Seasons of the Heart, and also teaches across the United States."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Chef",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Education",
+          "category": "Subject"
+        },
+        {
+          "tag": "Seasons of the Heart",
+          "category": "Names"
+        }
+      ],
+      "uuid": "63bd77e1-6070-4ae4-a0c5-79632dd182a2"
+    },
+    {
+      "start_time": 38,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Latino USA caught up with Susana Trilling in Austin, Texas at Manuel's Restaurant, where she shared with us her recipe for ensalada de nopales asados, grilled nopales salad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Austin",
+          "category": "Geographic"
+        },
+        {
+          "tag": "Recipe",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Manuels Restaurant",
+          "category": "Names"
+        }
+      ],
+      "uuid": "9e583ee2-14fa-4793-9d49-9b8f6e1317c2"
+    },
+    {
+      "start_time": 50,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let's just do the ensalada nopal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Susana Trilling",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Nopal",
+          "category": "Subject"
+        },
+        {
+          "tag": "Recipe",
+          "category": "Artistic Medium"
+        }
+      ],
+      "uuid": "65d86bfd-a34f-4dbf-ad34-9ada4402be9b"
+    },
+    {
+      "start_time": 53,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay so you take a cactus and you clean the spines off."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Susana Trilling",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Nopal",
+          "category": "Subject"
+        },
+        {
+          "tag": "Recipe",
+          "category": "Artistic Medium"
+        }
+      ],
+      "uuid": "4f05d43c-725e-46c8-90a7-dbc40abe25df"
+    },
+    {
+      "start_time": 56,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And when you have the whole petals, you wash them well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Susana Trilling",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Nopal",
+          "category": "Subject"
+        },
+        {
+          "tag": "Recipe",
+          "category": "Artistic Medium"
+        }
+      ],
+      "uuid": "73aa8404-cf86-4b7b-bfe8-2f043ea2a326"
+    },
+    {
+      "start_time": 58,
+      "end_time": 63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then you grill them in a cast iron frying pan or on a griddle or a comal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Susana Trilling",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Nopal",
+          "category": "Subject"
+        },
+        {
+          "tag": "Recipe",
+          "category": "Artistic Medium"
+        }
+      ],
+      "uuid": "2aa862a2-391f-4a0f-9bb7-e421d4413dac"
+    },
+    {
+      "start_time": 63,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then you cut them up in little pieces, cut up some tomato, some green onions, some cilantro."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Susana Trilling",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Nopal",
+          "category": "Subject"
+        },
+        {
+          "tag": "Recipe",
+          "category": "Artistic Medium"
+        }
+      ],
+      "uuid": "921cc635-7764-446f-b62e-6a35e6269342"
+    },
+    {
+      "start_time": 70,
+      "end_time": 73,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then you roast some garlic and chop that up fine."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Susana Trilling",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Nopal",
+          "category": "Subject"
+        },
+        {
+          "tag": "Recipe",
+          "category": "Artistic Medium"
+        }
+      ],
+      "uuid": "e524b85e-bb7b-4a6a-861b-746aa9e06e7a"
+    },
+    {
+      "start_time": 73,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You mix that all together."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Susana Trilling",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Nopal",
+          "category": "Subject"
+        },
+        {
+          "tag": "Recipe",
+          "category": "Artistic Medium"
+        }
+      ],
+      "uuid": "f34a6cd0-6b56-4612-a9f8-c1feadd26c56"
+    },
+    {
+      "start_time": 75,
+      "end_time": 84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then in a molcajete, you grind up some star anise, maybe one star, and then about half a cup of vinegar, half a cup of olive oil, and the juice of two limes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Susana Trilling",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Nopal",
+          "category": "Subject"
+        },
+        {
+          "tag": "Recipe",
+          "category": "Artistic Medium"
+        }
+      ],
+      "uuid": "89e9a41c-6036-46ec-bd6c-e6df44c58718"
+    },
+    {
+      "start_time": 84,
+      "end_time": 88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And you mix that in and then you cut up some avocado and you fold that in."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Susana Trilling",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Nopal",
+          "category": "Subject"
+        },
+        {
+          "tag": "Recipe",
+          "category": "Artistic Medium"
+        }
+      ],
+      "uuid": "b8d6e0a5-c5e9-4dff-8aca-05ebaf75ab04"
+    },
+    {
+      "start_time": 88,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that's called ensalada de nopal asado. It's really good for you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Susana Trilling",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Nopal",
+          "category": "Subject"
+        },
+        {
+          "tag": "Recipe",
+          "category": "Artistic Medium"
+        }
+      ],
+      "uuid": "249d90b1-33ff-4198-9dc9-314fedc08636"
+    },
+    {
+      "start_time": 92,
+      "end_time": 97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And in case you didn't catch all of that the first time, here's the recipe."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Recipe",
+          "category": "Artistic Medium"
+        }
+      ],
+      "uuid": "7f075c19-995d-420a-8a2a-56edc1986104"
+    },
+    {
+      "start_time": 97,
+      "end_time": 121,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One pound of fresh nopales, nine garlic cloves, a quarter pound of tomatoes, three cebollitas, or green onions, two avocados, half a cup of chopped cilantro, or coriander, one star of anise, ground, a third of a cup of red wine vinegar, two tablespoons of lime juice, salt and pepper to taste."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Recipe",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Nopal",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "4d3d81fc-9bb0-4e94-a2df-5db37b5a6c7f"
+    },
+    {
+      "start_time": 121,
+      "end_time": 127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I serve them on totopos or like tortillas that are baked in the oven with a little bit of queso fresco on top."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Susana Trilling",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Recipe",
+          "category": "Artistic Medium"
+        }
+      ],
+      "uuid": "878dac31-ea6e-4159-97a4-b40561fe6558"
+    },
+    {
+      "start_time": 127,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So it's kind of like crunchy, slimy and salty. [Laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Susana Trilling",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Nopal",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "7dc54dd0-b9c1-405f-bf34-563ed948902d"
+    },
+    {
+      "start_time": 130,
+      "end_time": 133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But it's a wonderful botana and it's really, really good for you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Susana Trilling",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Nopal",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "f5ea496e-8a6c-427f-97d5-c2fafaecab6f"
+    },
+    {
+      "start_time": 133,
+      "end_time": 136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The nopal is excellent for the salud."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Susana Trilling",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Nopal",
+          "category": "Subject"
+        }
+      ],
+      "uuid": "e8c2d530-d125-42cd-87a3-7a85ba2792c1"
+    },
+    {
+      "start_time": 136,
+      "end_time": 142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Susana Trilling is author of the book Seasons of My Heart, A Culinary Journey Through Oaxaca, Mexico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Seasons of My Heart",
+          "category": "Work Titles"
+        },
+        {
+          "tag": "Chef",
+          "category": "Artistic Medium"
+        },
+        {
+          "tag": "Oaxaca",
+          "category": "Geographic"
+        }
+      ],
+      "uuid": "fde98c74-72f0-413b-b756-252d44aee473"
+    },
+    {
+      "start_time": 142,
+      "end_time": 144,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's published by Ballantine Books."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Seasons of My Heart",
+          "category": "Work Titles"
+        }
+      ],
+      "uuid": "83951aba-81bd-4532-8f68-23b7b15c0f93"
+    },
+    {
+      "start_time": 144,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The recipe for Ensalada de Nopales Asados can also be found on our website at latinousa.org."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Nopal",
+          "category": "Subject"
+        },
+        {
+          "tag": "Recipe",
+          "category": "Artistic Medium"
+        }
+      ],
+      "uuid": "5c72ca40-9526-4acd-99ed-f966c7391ed1"
+    }
+  ],
   "set": "Default",
   "event_id": "22336beb-80e6-473e-8201-421465b7e53a",
   "source_id": "3a896ce4-672a-4460-ac38-b0d08e8563e4"
