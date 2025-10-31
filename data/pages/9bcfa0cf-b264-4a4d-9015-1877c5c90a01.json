@@ -372,6 +372,103 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Works Cited",
+          "textSize": "heading-three"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "“Anthony Quinn Biography.” Anthony Quinn Estate. "
+        },
+        {
+          "type": "link",
+          "url": "https://www.anthonyquinn.com/anthony-quinn-biography",
+          "children": [
+            {
+              "text": "https://www.anthonyquinn.com/anthony-quinn-biography"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "“Anthony Quinn - Biography.” Internet Movie Database "
+        },
+        {
+          "type": "link",
+          "url": "https://www.imdb.com/name/nm0000063/bio/?ref_=nm_ov_bio_sm",
+          "children": [
+            {
+              "text": "https://www.imdb.com/name/nm0000063/bio/?ref_=nm_ov_bio_sm"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "\nAcademy Awards Database "
+        },
+        {
+          "type": "link",
+          "url": "https://awardsdatabase.oscars.org/",
+          "children": [
+            {
+              "text": "https://awardsdatabase.oscars.org/"
+            }
+          ]
+        },
+        {
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "event",
       "uuid": "4e05f7be-5e3e-48b3-9e47-cd562b058cd5",
       "includes": [
@@ -398,7 +495,7 @@
   "created_by": "amtellez16",
   "title": "Anthony Quinn Profile - Latino USA 426",
   "slug": "anthony-quinn-profile-latino-usa-426",
-  "updated_at": "2025-10-31T23:36:35.023Z",
+  "updated_at": "2025-10-31T23:37:32.035Z",
   "updated_by": "amtellez16",
   "parent": "b7e5726b-a0d8-4dbb-8fd8-11f2f273da4e",
   "autogenerate": {
