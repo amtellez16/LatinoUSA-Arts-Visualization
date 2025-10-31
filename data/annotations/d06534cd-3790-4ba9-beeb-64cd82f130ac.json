@@ -1,5 +1,907 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ojala is a Spanish word that, I was surprised to learn, has its roots in the Arabic word inshallah, which means God-grant or God-willing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Ojala",
+          "category": "Names"
+        }
+      ],
+      "uuid": "405fe75f-6834-4c47-8ba8-830980d24d1c"
+    },
+    {
+      "start_time": 25,
+      "end_time": 31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And Ojala is also the name of a unique duo that combines both Spanish and Middle Eastern influences."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Ojala",
+          "category": "Names"
+        },
+        {
+          "tag": "Fusion",
+          "category": "Genre"
+        }
+      ],
+      "uuid": "7e76581f-9407-4033-9233-a87a3507c41a"
+    },
+    {
+      "start_time": 56,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With us today to talk about this rare mix of language and music are Javier Palacios and Kamran Hooshmand, who perform together as the group Ojala."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Singing",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "12c809d9-240f-4360-ab7d-e29c8dcb5e7a"
+    },
+    {
+      "start_time": 65,
+      "end_time": 77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welcome to both of you. So whose idea was it? Was it you, Kamran, who growing up in Iran just really wanted to spill your guts singing Latin American love songs?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "5bd46bd7-16dc-40e8-9edc-ccb4562bbddf"
+    },
+    {
+      "start_time": 77,
+      "end_time": 83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Or was it you, Javier, who just really wanted to push and test the limits of Mexican traditional music?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "8e1ecded-1826-4c38-b6fc-bc9995702588"
+    },
+    {
+      "start_time": 83,
+      "end_time": 85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think it's a little bit of both."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Javier Palacios",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "3fabed9e-cf9e-4924-aa49-f07cee7dc8d4"
+    },
+    {
+      "start_time": 85,
+      "end_time": 94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's right. That's right. Both of us have stories to tell about how we become connected to the other person's culture."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kamran Hooshmand",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "40a9c948-a6fe-47ca-8e19-5d64c1d65510"
+    },
+    {
+      "start_time": 94,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mine goes back to, yes, you're right, from childhood in Iran and the exposure that I had to records that came from Latin America to Iran."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kamran Hooshmand",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Iran",
+          "category": "Geographic"
+        }
+      ],
+      "uuid": "8f9dce99-8e79-4879-b91e-0a6ad5b7b5cc"
+    },
+    {
+      "start_time": 104,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And later on, of course, coming to Texas, I got exposed to Andean and Latin American music. And that was the beginnings of my contact with Javier's culture."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kamran Hooshmand",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Texas",
+          "category": "Geographic"
+        },
+        {
+          "tag": "Latin American Music",
+          "category": "Genre"
+        }
+      ],
+      "uuid": "89312bbe-8b32-4cc4-9d80-2336d47deb21"
+    },
+    {
+      "start_time": 116,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And what about for you, Javier?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "d7c8c76c-5e62-4b17-8d94-6ff369434789"
+    },
+    {
+      "start_time": 118,
+      "end_time": 135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For me, when I arrived in Houston in '78, I used to go to a club named the Acropolis. And I started getting to see Greek bands, Turkish bands, and all sorts of different foreign music. And I got really fascinated by it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Javier Palacios",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Year 1978",
+          "category": "Time Period"
+        },
+        {
+          "tag": "Middle Eastern Music",
+          "category": "Genre"
+        },
+        {
+          "tag": "Houston",
+          "category": "Geographic"
+        }
+      ],
+      "uuid": "c0528bd1-3969-4d4b-ada6-b59c6e586457"
+    },
+    {
+      "start_time": 135,
+      "end_time": 147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When I moved into Austin, the first band that I got to see that had a Middle Eastern music was 1001 Nights, which is the band that Kamran had in those days."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Javier Palacios",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Middle Eastern Music",
+          "category": "Genre"
+        },
+        {
+          "tag": "Band 1001 Nights",
+          "category": "Names"
+        },
+        {
+          "tag": "Austin",
+          "category": "Geographic"
+        }
+      ],
+      "uuid": "42c9420b-3072-4c56-81cf-6ed64fcee24e"
+    },
+    {
+      "start_time": 147,
+      "end_time": 158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Basically, we kept tracking each other's bands and admiring each other's music. But later on, we got to meet each other and the idea came to the surface."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Javier Palacios",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "5d9cbbc7-65ff-4239-b40a-b19bb6962acc"
+    },
+    {
+      "start_time": 158,
+      "end_time": 175,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, I have to tell you, when I got the picture, I looked at it and I was like, OK, I'm going to guess who's who. And I totally guessed wrong. [laughter] I thought--I thought that Javier was the Iranian and that Kamran was the Mexican. See, that's the idea. [laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "07da2d32-54d7-424c-97d7-21f87e36dfd2"
+    },
+    {
+      "start_time": 183,
+      "end_time": 193,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So let's talk about the music. I'm wondering when you do a song like Cucurrucucú Paloma, which is so Mexican."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Cucurrucucú Paloma",
+          "category": "Work Titles"
+        }
+      ],
+      "uuid": "0a063c42-1d5d-44fc-90b2-37d81cb9a7d5"
+    },
+    {
+      "start_time": 193,
+      "end_time": 194,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Javier Palacios",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "6c52ea7e-5ebf-4f74-9fba-7b9bb194df22"
+    },
+    {
+      "start_time": 195,
+      "end_time": 202,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What's the response that you get, Javier, when it's your version? People say, oh, my God, imposible. Or do they say this is extraordinary?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Fusion",
+          "category": "Genre"
+        }
+      ],
+      "uuid": "1e5ea2e8-7233-456c-bafd-dcb7f4d43d10"
+    },
+    {
+      "start_time": 202,
+      "end_time": 214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think it has been a very positive response. The adaptation was so incredibly good. It was very magical in the studio. We were just trying to do this song different ways."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Javier Palacios",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "580e0ba9-84dd-4dd9-bb48-158af2a84cc7"
+    },
+    {
+      "start_time": 214,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And finally, the way it came, it was just like one take and it was just magical."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Javier Palacios",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "578f8237-c74e-461a-a267-26511fd6d01e"
+    },
+    {
+      "start_time": 240,
+      "end_time": 244,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Singing] Cucurrucucú Paloma. Cucurrucucú no llores."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Singing",
+          "category": "Sounds"
+        },
+        {
+          "tag": "Cucurrucucú Paloma",
+          "category": "Work Titles"
+        }
+      ],
+      "uuid": "632cf02e-648a-4635-a300-0a3ece8b4c78"
+    },
+    {
+      "start_time": 261,
+      "end_time": 272,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Music] What I found interesting was how, for example, in the song Corazon Loco, you've got the very Arabic intonation and yet the singing is in Spanish."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Corazon Loco",
+          "category": "Work Titles"
+        },
+        {
+          "tag": "Fusion",
+          "category": "Genre"
+        }
+      ],
+      "uuid": "fdc16aa7-5dc4-4537-9bd6-316207ba92c7"
+    },
+    {
+      "start_time": 272,
+      "end_time": 282,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's right. And what you will find interesting is that that song actually originally was a Persian love song that Javier translated the lyrics into Spanish. [Music]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kamran Hooshmand",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Fusion",
+          "category": "Genre"
+        },
+        {
+          "tag": "Music",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "87db3131-ff9c-42af-8972-eb42d2853d24"
+    },
+    {
+      "start_time": 296,
+      "end_time": 308,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I want to know what dreams do you have of pushing this even further? I mean, are you thinking of Arabic salsa or mariachi with Arab lyrics? [laguhter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Fusion",
+          "category": "Genre"
+        },
+        {
+          "tag": "Salsa",
+          "category": "Genre"
+        },
+        {
+          "tag": "Mariachi",
+          "category": "Genre"
+        }
+      ],
+      "uuid": "5ddcb317-d8a6-46ef-874a-235944db97dc"
+    },
+    {
+      "start_time": 308,
+      "end_time": 312,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That sounds pretty cool."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Javier Palacios",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "3f142ba9-32b6-4459-97a6-288da7d4a718"
+    },
+    {
+      "start_time": 312,
+      "end_time": 316,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Take us to the next level."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "009a06a7-7120-40d1-8f2d-0b39a25d24f7"
+    },
+    {
+      "start_time": 316,
+      "end_time": 325,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right. Actually, Kamran had somebody talking about it. Why don't we go into something like salsa?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Javier Palacios",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Salsa",
+          "category": "Genre"
+        },
+        {
+          "tag": "Fusion",
+          "category": "Genre"
+        }
+      ],
+      "uuid": "3a14ee2b-c365-442e-9efc-1ecaa41e3095"
+    },
+    {
+      "start_time": 325,
+      "end_time": 328,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I guess I would be taking it to the next level. Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kamran Hooshmand",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "7723fa6b-8f92-4848-809c-89fb816d11b9"
+    },
+    {
+      "start_time": 328,
+      "end_time": 341,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That would be one level. We're actually making it a dance, much more of a dance music. Of course, we don't know where it's going to go. We did this because we really loved to do it. But where it goes, it's God willing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kamran Hooshmand",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Fusion",
+          "category": "Genre"
+        },
+        {
+          "tag": "Dance Music",
+          "category": "Genre"
+        }
+      ],
+      "uuid": "b8541452-8b99-4c43-b76b-791ce948e11a"
+    },
+    {
+      "start_time": 341,
+      "end_time": 344,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ojala. [Laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kamran Hooshmand",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "56f3ac76-e2cf-4a93-8e5f-2f06455de683"
+    },
+    {
+      "start_time": 344,
+      "end_time": 346,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ojala. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b6555eda-9ae3-4b44-b510-bc12e3b271d4"
+    },
+    {
+      "start_time": 346,
+      "end_time": 350,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, thank you so much for stopping by to visit us at Latino USA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0464a3f6-c33a-43b1-a1fa-528772fa9722"
+    },
+    {
+      "start_time": 350,
+      "end_time": 357,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We're talking to Kamran Hooshmand and Javier Palacios, who formed the duo Ojala, which is also the name of their first release."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Ojala",
+          "category": "Names"
+        }
+      ],
+      "uuid": "f712f6f8-2a63-445c-8e0a-0d2c87523dc6"
+    },
+    {
+      "start_time": 357,
+      "end_time": 361,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can find more information on their web page, Ojalamusic.com."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Ojala",
+          "category": "Names"
+        }
+      ],
+      "uuid": "ef47cf35-dcdd-4ea7-8fd7-0a15a2ce7878"
+    },
+    {
+      "start_time": 361,
+      "end_time": 362,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Muchas gracias and khodāhāfez."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Maria Hinojosa",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "24c7557b-b3b2-45e7-a233-6b61d535257e"
+    },
+    {
+      "start_time": 362,
+      "end_time": 363,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gracias."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Javier Palacios",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b9d4afa1-0cd4-43f9-beb9-0c727603635a"
+    },
+    {
+      "start_time": 363,
+      "end_time": 364,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Khodāhāfez."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kamran Hooshmand",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0e144ca4-8fd2-4ea9-a0fe-b819a87f415e"
+    },
+    {
+      "start_time": 303,
+      "end_time": 366,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gracias a ti."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Javier Palacios",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Music",
+          "category": "Sounds"
+        }
+      ],
+      "uuid": "873e5771-ee86-46a5-8012-488d7e229e0b"
+    }
+  ],
   "set": "Default",
   "event_id": "0a241f6b-99ba-48eb-9440-442f4a0ddee3",
   "source_id": "f3c2f146-5d6a-43a4-9f42-faf7038377be"
