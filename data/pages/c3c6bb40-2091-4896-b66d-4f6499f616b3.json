@@ -27,8 +27,9 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Caption: Rita Moreno Peabody Awards. Credit: Wikimedia Commons.",
-          "textSize": "small"
+          "text": "Rita Moreno Peabody Awards. Credit: Wikimedia Commons.",
+          "textSize": "small",
+          "italic": true
         }
       ]
     },
@@ -96,7 +97,8 @@
           "text": "Additional Resources:",
           "textSize": "heading-three"
         }
-      ]
+      ],
+      "align": "center"
     },
     {
       "type": "paragraph",
@@ -191,7 +193,8 @@
       "includes": [
         "media",
         "annotations",
-        "description"
+        "description",
+        "label"
       ],
       "children": [
         {
@@ -212,7 +215,7 @@
   "created_by": "amtellez16",
   "title": "Rita Moreno - Latino USA Episode 411",
   "slug": "rita-moreno-latino-usa-episode-411",
-  "updated_at": "2025-10-31T20:54:40.446Z",
+  "updated_at": "2025-10-31T22:13:05.489Z",
   "updated_by": "luzgonz-glitch",
   "parent": "b7e5726b-a0d8-4dbb-8fd8-11f2f273da4e",
   "autogenerate": {
