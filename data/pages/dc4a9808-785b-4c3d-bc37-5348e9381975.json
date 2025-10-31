@@ -4,18 +4,236 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Episode 433 aired on July 27, 2001. This segment is a performance of Quique Aviles’ poem, “Border Crossing Chicken.”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
     },
     {
-      "type": "event",
+      "type": "image",
+      "url": "https://live.staticflickr.com/7047/6792573326_92150fdb61_b.jpg",
+      "caption": "Quique Aviles, Salvadoran poet and performer. Flickr.",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "scale": 40
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Border Crossing Chicken",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Quique Aviles is a poet from Washington, D.C. He was born in El Salvador and attended the Duke Ellington School for the Arts. In addition to being a poet, he is also a performer and community activist. He is the founder and co-founder of two community organizations, the LatiNegro Theater Collective and LatiNegro Theater Collective, respectively. He published his first book of poetry, _The Immigrant Museum_ in 2004. He has also written and performed in multiple one-man shows related to issues of race and identity. His commentary has been featured in several episodes of Latino USA. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Additional Resources",
+          "textSize": "heading-two"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Books and Book Chapters",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ambroggio, Luis Alberto, et al. Al pie de la Casa Blanca : poetas hispanos de Washington, DC / [Luis Alberto Ambroggio, Carlos Parada Ayala, eds.]. Academia Norteamericana de la Lengua Española, 2010."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Hernández, Paola S., and Analola Santana. “Quique Avilés (El Carmen, El Salvador/ Washington, DC, 1965-).” Fifty Key Figures in Latinx and Latin American Theatre, edited by Paola S. Hernández and Analola Santana, 1st ed., vol. 1, Routledge, 2022, pp. 33–36, https://doi.org/10.4324/9781003144700-5."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Magazine Articles",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "AVILÉS, QUIQUE. “A Third Citizenship.” Washington History, vol. 31, no. 1/2, 2019, pp. 29–34."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Aviles, Quique. “Worth Noting ...(Quique Aviles Speaks on the Role of the Artist in Enacting Social Change).” Sojourners Magazine, vol. 32, no. 4, 2003, p. 53."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Videos",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Walton, Ellie, et al. La Manplesa : An Uprising Remembered / Cinema Guild ; a Film by Ellie Walton ; Producers, Cindy Centeno, Max Avilés, Quique Avilés, Sonya Robbins Hoffman, Sabiyha Prince. Cinema Guild, 2022."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Works Cited",
+          "textSize": "heading-three"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "“Quique Avilés.” Lannan Center for Poetics and Social Practice, 19 Jan. 2016, "
+        },
+        {
+          "type": "link",
+          "url": "https://lannan.georgetown.edu/past-guests/quique-aviles/",
+          "children": [
+            {
+              "text": "https://lannan.georgetown.edu/past-guests/quique-aviles/"
+            }
+          ]
+        },
+        {
+          "text": " ."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "7e540508-8218-4ff2-980f-0e45f1139f4c",
       "includes": [
         "media",
         "annotations",
+        "label",
         "description"
       ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -29,13 +247,21 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n"
+        }
+      ]
     }
   ],
   "created_at": "2025-10-31T15:59:25.285Z",
   "created_by": "amtellez16",
   "title": "Border Crossing Chicken - Latino USA Episode 433",
   "slug": "border-crossing-chicken-latino-usa-episode",
-  "updated_at": "2025-10-31T16:06:46.488Z",
+  "updated_at": "2025-10-31T21:42:23.095Z",
   "updated_by": "amtellez16",
   "parent": "b7e5726b-a0d8-4dbb-8fd8-11f2f273da4e",
   "autogenerate": {
