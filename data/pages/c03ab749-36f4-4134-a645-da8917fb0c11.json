@@ -8,22 +8,56 @@
           "textSize": "heading-two"
         }
       ],
-      "align": "center"
+      "align": "left"
     },
     {
-      "type": "paragraph",
+      "type": "grid",
+      "layout": [
+        4,
+        2
+      ],
       "children": [
         {
-          "textSize": "heading-two",
-          "text": "Reflecting on 35 years of El Teatro Campesino"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
         {
-          "text": "This episode centers on a conversation between Maria Martin and Luis Valdez, founder of El Teatro Campesino. It aired on March 31, 2001."
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "This episode centers on a conversation between Maria Martin and Luis Valdez, founder of El Teatro Campesino. It aired on March 31, 2001."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "El Teatro Campesino was born out of the Delano Grape Strike in 1965 when Luis Valdez pitched the idea of theatre by and for farm workers to Cesar Chavez. It became the cultural arm of the United Farmworkers Movement. Humble beginnings of one act socio-political skits that dramatized the plight and cause of the immigrant farmworkers led to critical acclaim. By the 1980’s the company had toured across the United States and México, with six major tours throughout Europe. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -39,7 +73,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "El Teatro Campesino was born out of the Delano Grape Strike in 1965 when Luis Valdez pitched the idea of theatre by and for farm workers to Cesar Chavez. It became the cultural arm of the United Farmworkers Movement. Humble beginnings of one act socio-political skits that dramatized the plight and cause of the immigrant farmworkers led to critical acclaim. By the 1980’s the company had toured across the United States and México, with six major tours throughout Europe. "
+          "text": ""
         }
       ]
     },
@@ -103,7 +137,9 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Luis Valdez with the cast of the 1978 production of “Zoot Suit” at the Mark Taper Forum. Credit: Jay Thompson                  La Bamba Movie Poster",
+          "italic": true,
+          "textSize": "small"
         }
       ]
     },
@@ -425,7 +461,7 @@
   "created_by": "amtellez16",
   "title": "El Teatro Campesino - Latino USA Episode 416",
   "slug": "el-teatro-campesino-latino-usa-episode-416",
-  "updated_at": "2025-11-01T02:10:32.633Z",
+  "updated_at": "2025-11-01T02:13:45.031Z",
   "updated_by": "luzgonz-glitch",
   "parent": "b7e5726b-a0d8-4dbb-8fd8-11f2f273da4e",
   "autogenerate": {
