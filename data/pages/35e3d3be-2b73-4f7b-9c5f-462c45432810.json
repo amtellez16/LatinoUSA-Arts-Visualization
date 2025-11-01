@@ -25,14 +25,6 @@
       ]
     },
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "grid",
       "layout": [
         3,
@@ -91,7 +83,8 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
+                  "text": "",
+                  "italic": true
                 }
               ]
             },
@@ -123,7 +116,8 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
+                  "text": "",
+                  "italic": true
                 }
               ]
             },
@@ -131,7 +125,17 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
+                  "text": "Pepe Mogt Music. Credit: Soundcloud.",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Nortec Collective. Credit: Wikimedia Commons.",
+                  "italic": true
                 }
               ]
             }
@@ -151,7 +155,38 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Additional Resources",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "711cd0af-c1d8-46ad-807e-88967883e35c",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Additional Resources:",
           "textSize": "heading-three"
         }
       ],
@@ -163,15 +198,6 @@
         {
           "text": "Articles",
           "textSize": "heading-four"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "heading-four",
-          "text": ""
         }
       ]
     },
@@ -198,15 +224,6 @@
         {
           "textSize": "heading-four",
           "text": "Books"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "heading-four",
-          "text": ""
         }
       ]
     },
@@ -297,14 +314,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "Raygoza, Isabela. “Nortec: Bostich + Fussible Talk 25 Years of Their Groundbreaking Mix of Norteño and Electronic Music.” Billboard, 18 Apr. 2025, https://www.billboard.com/music/latin/nortec-bostich-fussible-25-years-norteno-electronic-music-1235949580/."
         }
       ]
@@ -334,20 +343,6 @@
       ]
     },
     {
-      "type": "event",
-      "uuid": "711cd0af-c1d8-46ad-807e-88967883e35c",
-      "includes": [
-        "media",
-        "annotations",
-        "description"
-      ],
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "paragraph",
       "children": [
         {
@@ -370,8 +365,8 @@
   "created_by": "amtellez16",
   "title": "Nortec Collectivo - Latino USA Episode 433",
   "slug": "nortec-collectivo-latino-usa-episode-433",
-  "updated_at": "2025-10-31T23:04:49.144Z",
-  "updated_by": "amtellez16",
+  "updated_at": "2025-11-01T03:09:06.572Z",
+  "updated_by": "luzgonz-glitch",
   "parent": "b7e5726b-a0d8-4dbb-8fd8-11f2f273da4e",
   "autogenerate": {
     "enabled": false,
