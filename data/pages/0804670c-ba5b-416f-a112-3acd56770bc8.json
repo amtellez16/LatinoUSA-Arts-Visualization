@@ -40,7 +40,7 @@
           ]
         },
         {
-          "type": "column",
+          "type": "paragraph",
           "children": [
             {
               "type": "image",
@@ -49,8 +49,23 @@
                 {
                   "text": ""
                 }
-              ],
-              "caption": "Ojala band. Credit: Facebook"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "text": "Ojala band. Credit: Facebook\n"
             }
           ],
           "left": 10
@@ -87,6 +102,14 @@
       "children": [
         {
           "text": "This segment was featured in Episode 428 and aired on June 22, 2001. The segment is a conversation between Maria Hinojosa and members of the band."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -265,20 +288,11 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Works Cited",
+          "text": "Works Cited:",
           "textSize": "heading-three"
         }
       ],
       "align": "center"
-    },
-    {
-      "type": "paragraph",
-      "align": "center",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
     },
     {
       "type": "paragraph",
@@ -308,7 +322,24 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "MODE, DE. “Lola Beltrán: The Queen of Ranchera Music.” DE MODE, 25 Feb. 2025, https://www.demodemagazine.com/lola-beltrán-the-queen-of-ranchera-music."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -346,7 +377,7 @@
   "created_by": "amtellez16",
   "title": "Ojala (Band) - Latino USA Episode 428",
   "slug": "ojala-band-latino-usa-episode-428",
-  "updated_at": "2025-11-01T02:57:29.551Z",
+  "updated_at": "2025-11-01T03:00:49.306Z",
   "updated_by": "luzgonz-glitch",
   "parent": "b7e5726b-a0d8-4dbb-8fd8-11f2f273da4e",
   "autogenerate": {
