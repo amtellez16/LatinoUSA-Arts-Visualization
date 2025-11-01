@@ -154,7 +154,24 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Moreno, Rita. Rita Moreno : A Memoir / Rita Moreno. Celebra, 2013."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-four",
+          "text": ""
         }
       ]
     },
@@ -172,6 +189,15 @@
       "children": [
         {
           "text": "Moreno, Rita, and Leroy Lovett. Rita Moreno, Star of West Side Story. Strand."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-four",
+          "text": ""
         }
       ]
     },
@@ -233,7 +259,7 @@
   "created_by": "amtellez16",
   "title": "Rita Moreno - Latino USA Episode 411",
   "slug": "rita-moreno-latino-usa-episode-411",
-  "updated_at": "2025-11-01T02:31:32.873Z",
+  "updated_at": "2025-11-01T02:59:16.182Z",
   "updated_by": "luzgonz-glitch",
   "parent": "b7e5726b-a0d8-4dbb-8fd8-11f2f273da4e",
   "autogenerate": {
