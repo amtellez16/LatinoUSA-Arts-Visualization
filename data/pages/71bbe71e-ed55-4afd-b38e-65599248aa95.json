@@ -32,7 +32,8 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Tin ceiling at the Rio Grande Botanical Garden in Albuquerque, New Mexico. Credit: Flickr."
+                  "text": "Tin ceiling at the Rio Grande Botanical Garden in Albuquerque, New Mexico. Credit: Flickr.",
+                  "italic": true
                 }
               ],
               "align": "left"
@@ -55,7 +56,8 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Caption: Alfonso Santiago Leyva and son Tomas at workshop in Oaxaca. Credit: Wikimedia Commons."
+                  "text": "Caption: Alfonso Santiago Leyva and son Tomas at workshop in Oaxaca. Credit: Wikimedia Commons.",
+                  "italic": true
                 }
               ]
             }
@@ -254,7 +256,7 @@
   "created_by": "amtellez16",
   "title": "New Mexican Tin Art - Latino USA Episode 405",
   "slug": "new-mexican-tin-art-latino-usa-episode-405",
-  "updated_at": "2025-11-01T02:59:01.874Z",
+  "updated_at": "2025-11-01T03:01:22.659Z",
   "updated_by": "luzgonz-glitch",
   "parent": "b7e5726b-a0d8-4dbb-8fd8-11f2f273da4e",
   "autogenerate": {
