@@ -4,14 +4,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Episode 433 aired on July 27, 2001. This segment is a performance of Quique Aviles’ poem, “Border Crossing Chicken.”"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": ""
         }
       ]
@@ -31,8 +23,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Border Crossing Chicken",
-          "textSize": "heading-one"
+          "text": "Quique Aviles, Salvadoran poet and performer. Flickr.",
+          "italic": true
         }
       ]
     },
@@ -40,7 +32,34 @@
       "type": "paragraph",
       "children": [
         {
+          "textSize": "heading-one",
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": "Border Crossing Chicken"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Episode 433 aired on July 27, 2001. This segment is a performance of Quique Aviles’ poem, “Border Crossing Chicken.”"
         }
       ]
     },
@@ -61,11 +80,34 @@
       ]
     },
     {
+      "uuid": "7e540508-8218-4ff2-980f-0e45f1139f4c",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
-          "text": "Additional Resources",
-          "textSize": "heading-two"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Additional Resources:",
+          "textSize": "heading-three"
         }
       ],
       "align": "center"
@@ -115,7 +157,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Magazine Articles",
+          "text": "Articles",
           "textSize": "heading-four"
         }
       ]
@@ -181,21 +223,11 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Works Cited",
+          "text": "Works Cited:",
           "textSize": "heading-three"
         }
       ],
       "align": "center"
-    },
-    {
-      "type": "paragraph",
-      "align": "center",
-      "children": [
-        {
-          "textSize": "heading-three",
-          "text": ""
-        }
-      ]
     },
     {
       "type": "paragraph",
@@ -221,38 +253,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "uuid": "7e540508-8218-4ff2-980f-0e45f1139f4c",
-      "includes": [
-        "media",
-        "annotations",
-        "label",
-        "description"
-      ],
-      "type": "event",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\n\n\n"
+          "text": "\n"
         }
       ]
     }
@@ -261,8 +262,8 @@
   "created_by": "amtellez16",
   "title": "Border Crossing Chicken - Latino USA Episode 433",
   "slug": "border-crossing-chicken-latino-usa-episode",
-  "updated_at": "2025-10-31T21:42:23.095Z",
-  "updated_by": "amtellez16",
+  "updated_at": "2025-11-01T02:36:43.992Z",
+  "updated_by": "luzgonz-glitch",
   "parent": "b7e5726b-a0d8-4dbb-8fd8-11f2f273da4e",
   "autogenerate": {
     "enabled": false,
