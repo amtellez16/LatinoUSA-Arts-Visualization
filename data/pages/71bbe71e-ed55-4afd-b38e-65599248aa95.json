@@ -134,6 +134,37 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "e39d85de-78ec-4f90-90ab-49a61ff6847f",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Additional Resources:",
           "textSize": "heading-three"
         }
@@ -205,38 +236,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
-        }
-      ]
-    },
-    {
-      "uuid": "e39d85de-78ec-4f90-90ab-49a61ff6847f",
-      "includes": [
-        "media",
-        "annotations",
-        "description",
-        "label"
-      ],
-      "type": "event",
-      "children": [
-        {
           "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\n\n\n\n\n"
         }
       ]
     },
@@ -253,7 +253,7 @@
   "created_by": "amtellez16",
   "title": "New Mexican Tin Art - Latino USA Episode 405",
   "slug": "new-mexican-tin-art-latino-usa-episode-405",
-  "updated_at": "2025-10-31T22:12:12.601Z",
+  "updated_at": "2025-11-01T02:25:50.235Z",
   "updated_by": "luzgonz-glitch",
   "parent": "b7e5726b-a0d8-4dbb-8fd8-11f2f273da4e",
   "autogenerate": {
