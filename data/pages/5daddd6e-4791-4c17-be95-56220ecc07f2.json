@@ -11,7 +11,7 @@
               "text": ""
             }
           ],
-          "scale": 40
+          "scale": 35
         }
       ]
     },
@@ -214,15 +214,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "",
-          "bold": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "bold": true,
           "text": "Magazine Articles"
         }
@@ -285,7 +276,7 @@
   "created_by": "amtellez16",
   "title": "Ensalada de Nopales Asados - Latino USA Episode 429",
   "slug": "ensalada-de-nopales-asados-latino-usa-episo",
-  "updated_at": "2025-11-01T02:29:23.733Z",
+  "updated_at": "2025-11-01T02:32:06.204Z",
   "updated_by": "luzgonz-glitch",
   "parent": "b7e5726b-a0d8-4dbb-8fd8-11f2f273da4e",
   "autogenerate": {
