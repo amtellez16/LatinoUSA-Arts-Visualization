@@ -372,13 +372,30 @@
       ]
     },
     {
-      "type": "event",
-      "uuid": "6244b937-37a9-4ce1-afa1-dc8d19b606b5",
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "b20158cd-fed1-48f9-a643-281e340f162a",
       "includes": [
         "media",
         "annotations",
+        "label",
         "description"
       ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -398,7 +415,7 @@
   "created_by": "amtellez16",
   "title": "El Teatro Campesino - Latino USA Episode 416",
   "slug": "el-teatro-campesino-latino-usa-episode-416",
-  "updated_at": "2025-11-01T00:04:45.694Z",
+  "updated_at": "2025-11-01T00:18:18.146Z",
   "updated_by": "amtellez16",
   "parent": "b7e5726b-a0d8-4dbb-8fd8-11f2f273da4e",
   "autogenerate": {
