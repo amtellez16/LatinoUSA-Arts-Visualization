@@ -45,6 +45,15 @@
       "type": "paragraph",
       "children": [
         {
+          "textSize": "heading-two",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "This segment is Susanna Trilling’s recipe for Ensalada de Nopales Asados, or grilled cactus salad. It aired on June 29, 2001."
         }
       ]
@@ -190,7 +199,23 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Trilling, Susana. My Search for the Seventh Mole : A Story with Recipes from Oaxaca, Mexico / Susana Trilling. The Author], 1997."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -206,7 +231,24 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Velázquez, Ernesto. El nopal y su historia / Ernesto Velázquez. 1. ed., Clío, 1998."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
         }
       ]
     },
@@ -259,6 +301,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "“The Legacy of Susana Trilling.” Seasons of My Heart, https://www.seasonsofmyheart.com/susana-trilling."
         }
       ]
@@ -276,7 +326,7 @@
   "created_by": "amtellez16",
   "title": "Ensalada de Nopales Asados - Latino USA Episode 429",
   "slug": "ensalada-de-nopales-asados-latino-usa-episo",
-  "updated_at": "2025-11-01T02:32:06.204Z",
+  "updated_at": "2025-11-01T02:59:53.018Z",
   "updated_by": "luzgonz-glitch",
   "parent": "b7e5726b-a0d8-4dbb-8fd8-11f2f273da4e",
   "autogenerate": {
