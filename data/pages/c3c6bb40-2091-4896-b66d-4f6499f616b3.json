@@ -91,6 +91,29 @@
       ]
     },
     {
+      "uuid": "39fedf18-dfcb-4c7c-937f-903be3817653",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -106,6 +129,14 @@
         {
           "text": "Books",
           "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -129,8 +160,25 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Audio",
+          "text": "",
           "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-four",
+          "text": "Audio"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -146,8 +194,25 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Video",
+          "text": "",
           "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-four",
+          "text": "Video"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -188,21 +253,6 @@
       ]
     },
     {
-      "type": "event",
-      "uuid": "39fedf18-dfcb-4c7c-937f-903be3817653",
-      "includes": [
-        "media",
-        "annotations",
-        "description",
-        "label"
-      ],
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "paragraph",
       "children": [
         {
@@ -215,7 +265,7 @@
   "created_by": "amtellez16",
   "title": "Rita Moreno - Latino USA Episode 411",
   "slug": "rita-moreno-latino-usa-episode-411",
-  "updated_at": "2025-10-31T22:13:05.489Z",
+  "updated_at": "2025-11-01T02:26:46.249Z",
   "updated_by": "luzgonz-glitch",
   "parent": "b7e5726b-a0d8-4dbb-8fd8-11f2f273da4e",
   "autogenerate": {
