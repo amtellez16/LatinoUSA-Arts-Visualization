@@ -9,14 +9,6 @@
       ]
     },
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "This segment of Latino USA was featured on Episode 428 and aired on June 22, 2001. It is a conversation between Maria Hinojosa and members of the Ojala band. "
-        }
-      ]
-    },
-    {
       "type": "grid",
       "layout": [
         4,
@@ -199,6 +191,37 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "0a241f6b-99ba-48eb-9440-442f4a0ddee3",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Additional Resources: ",
           "textSize": "heading-three"
         }
@@ -218,7 +241,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Hooshmand, Kamran, and Javier Palacios. Ojalá / Kamrand Hooshmand & Javier Palacios. Paradiso Records, 2001."
+          "text": "Hooshmand, Kamran, and Javier Palacios. Ojalá / Kamrand Hooshmand & Javier Palacios. Paradiso Records, 2001.\n"
         }
       ]
     },
@@ -226,7 +249,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\nHooshmand, Kamran, and performer Nights Orchestra. Salaam / Kamran Hooshmand & 1001 Nights. Che Pessari Productions, 1997."
+          "text": "Hooshmand, Kamran, and performer Nights Orchestra. Salaam / Kamran Hooshmand & 1001 Nights. Che Pessari Productions, 1997."
         }
       ]
     },
@@ -285,24 +308,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "MODE, DE. “Lola Beltrán: The Queen of Ranchera Music.” DE MODE, 25 Feb. 2025, https://www.demodemagazine.com/lola-beltrán-the-queen-of-ranchera-music."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
-          "text": ""
         }
       ]
     },
@@ -328,20 +334,6 @@
       ]
     },
     {
-      "type": "event",
-      "uuid": "0a241f6b-99ba-48eb-9440-442f4a0ddee3",
-      "includes": [
-        "media",
-        "annotations",
-        "description"
-      ],
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "paragraph",
       "children": [
         {
@@ -354,8 +346,8 @@
   "created_by": "amtellez16",
   "title": "Ojala (Band) - Latino USA Episode 428",
   "slug": "ojala-band-latino-usa-episode-428",
-  "updated_at": "2025-10-31T21:52:34.071Z",
-  "updated_by": "amtellez16",
+  "updated_at": "2025-11-01T02:57:29.551Z",
+  "updated_by": "luzgonz-glitch",
   "parent": "b7e5726b-a0d8-4dbb-8fd8-11f2f273da4e",
   "autogenerate": {
     "enabled": false,
