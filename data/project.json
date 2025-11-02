@@ -545,10 +545,6 @@
           "category": "Names"
         },
         {
-          "tag": "Anthony Quinn",
-          "category": "Names"
-        },
-        {
           "tag": "Cesar Chavez",
           "category": "Names"
         },
@@ -743,7 +739,7 @@
       ]
     },
     "created_at": "2025-10-31T15:11:45.041Z",
-    "updated_at": "2025-11-02T20:47:56.454Z",
+    "updated_at": "2025-11-02T20:48:02.189Z",
     "generate_pages_site": true
   },
   "annotations": {},
