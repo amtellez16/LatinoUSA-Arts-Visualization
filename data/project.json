@@ -581,10 +581,6 @@
           "category": "Names"
         },
         {
-          "tag": "Hector Galan",
-          "category": "Names"
-        },
-        {
           "tag": "Herb Alpert",
           "category": "Names"
         },
@@ -751,7 +747,7 @@
       ]
     },
     "created_at": "2025-10-31T15:11:45.041Z",
-    "updated_at": "2025-11-02T20:47:42.746Z",
+    "updated_at": "2025-11-02T20:47:49.647Z",
     "generate_pages_site": true
   },
   "annotations": {},
