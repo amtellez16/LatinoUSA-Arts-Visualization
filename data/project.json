@@ -621,10 +621,6 @@
           "category": "Names"
         },
         {
-          "tag": "Luis Valdez",
-          "category": "Names"
-        },
-        {
           "tag": "Manuels Restaurant",
           "category": "Names"
         },
@@ -759,7 +755,7 @@
       ]
     },
     "created_at": "2025-10-31T15:11:45.041Z",
-    "updated_at": "2025-11-02T20:47:28.369Z",
+    "updated_at": "2025-11-02T20:47:35.067Z",
     "generate_pages_site": true
   },
   "annotations": {},
