@@ -173,10 +173,6 @@
           "category": "Genre"
         },
         {
-          "tag": "Mexican Cooking",
-          "category": "Genre"
-        },
-        {
           "tag": "Middle Eastern Music",
           "category": "Genre"
         },
@@ -731,7 +727,7 @@
       ]
     },
     "created_at": "2025-10-31T15:11:45.041Z",
-    "updated_at": "2025-11-03T22:13:42.997Z",
+    "updated_at": "2025-11-03T22:13:59.178Z",
     "generate_pages_site": true
   },
   "annotations": {},
